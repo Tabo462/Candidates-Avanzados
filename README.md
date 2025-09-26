@@ -1,7 +1,7 @@
 ### Candidates Avanzados HRI Carlos Taboada
 
 
-##Primer Sync 
+## Primer Sync 
 # Dia 1
 Entendí que es un RAG
 Aprendí que es el embedding
